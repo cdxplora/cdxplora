@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cdxplora
+- 👋 Hi, I’m cdxplora
 - 👀 I’m interested in gaining new tech skills 
 - 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on projects that I will help build my skills!
 - 📫 How to reach me 
 - 😄 Pronouns: she
 - ⚡ Fun fact: ...
